@@ -220,24 +220,7 @@ if(totalPrice == 0) {
     
     
    
-        //       const mainInfo = document.querySelector('.main__product-info'),
-        //             imgInfo = mainInfo.querySelector('img'),
-        //             view  = document.querySelector('.view'),
-        //             viewImg = view.querySelector('img'),
-        //             viewClose = document.querySelector('.view__close');
-
-        //   mainInfo.addEventListener('dblclick', () => {
-        //       let img = imgInfo.getAttribute('src');
-        //       viewImg.setAttribute('src',img);
-        //       view.classList.add('active')
-             
-             
-        //   })
-
-
-        //   viewClose.addEventListener('click', () => {
-        //       view.classList.remove('active')
-        //   })
+         
 
 
 
